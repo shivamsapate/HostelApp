@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HostelApp</string>
+    <string-array name="values">
+        <item>Customer</item>
+        <item>Dealer</item>
+    </string-array>
+</resources>
